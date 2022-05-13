@@ -16,10 +16,9 @@ Hi, I'm Nii Amanor Djoleto, a software Developer 🚀 from Ghana, currently, I'm
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript; 
+- 🌱 I’m currently learning JavaScript and Networking; 
 - 🤔 I’m looking for help with DOM 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: no fuct apparently ;
+- 💬 Ask me about anything, I am glad to help;
 - 📫 How to reach me: djoletoamanor@gmail.com;
 
 **Languages and Tools:**  
