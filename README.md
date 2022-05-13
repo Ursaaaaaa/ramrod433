@@ -12,7 +12,7 @@
 
 Hi, I'm Nii Amanor Djoleto, a software Developer 🚀 from Ghana, currently, I'm a student of Microverse. Beside's programming, I enjoy eating gaming,playing basketball and watching movies
 
-  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" />
+  <img align="right" alt="GIF" height="400px" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
